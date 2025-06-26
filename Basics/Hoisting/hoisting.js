@@ -1,0 +1,1 @@
+//! This file contains all examples of hoisting 
